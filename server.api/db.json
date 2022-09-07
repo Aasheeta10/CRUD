@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "name": "Aasheeta",
+      "address": "INDIA",
+      "contact": 8005679654,
+      "email": "aasheetamaheshwari@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "Anuu2",
+      "address": "Delhi-india",
+      "email": "annu@12345",
+      "contact": "123456789",
+      "id": 4
+    }
+  ]
+}
